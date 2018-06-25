@@ -1,0 +1,56 @@
+body { 
+    /* The image used */
+    background-image: url("http://1.bp.blogspot.com/-uRE8YBi_ISQ/VLSq-yueVBI/AAAAAAAAACE/FnI15CKyqGA/s1600/Age%2BOf%2BEmpires%2B2%2BThe%2BConquerors%2BExpansion%2BA.jpg");
+
+    /* Full height */
+    height: 15%; 
+
+    /* Center and scale the image nicely */
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+
+.align {
+    margin-top: 15%;
+}
+
+.stage {
+    background:transparent;
+    height: 550px;
+    border-radius: 25px;
+    font-size: 30px;
+
+}
+
+#startGame {
+    margin-top: 75px;
+    background-color:transparent;
+    font-size: 30px;
+    color: white;
+
+}
+
+#restart {
+    margin-top: 10px;
+    background-color: transparent;
+    font-size: 30px;
+    color:white;
+}
+
+#gif {
+    margin-top: 5px;
+}
+
+#question {
+    margin-top: 5px;
+}
+  
+
+#startMessage {
+    margin-top: 75px;
+}
